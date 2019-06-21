@@ -16,6 +16,8 @@
 //
 // and from there you can do whatever you like with the accumulated data.
 
+// stack2struct package is broken: https://github.com/kaeuferportal/stack2struct/issues/1
+
 package raygun
 
 import (
