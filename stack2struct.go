@@ -16,7 +16,7 @@
 //
 // and from there you can do whatever you like with the accumulated data.
 
-package raygun4go
+package raygun
 
 import (
 	"fmt"
